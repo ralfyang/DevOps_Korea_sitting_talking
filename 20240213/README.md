@@ -25,5 +25,6 @@
 - 테스트 자동화
   - RPA - Easy Recording
   - <img width="812" alt="image" src="https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/571c5b10-495c-4cfa-acd6-470092926583">
-
+- CI/CD pipeline status dashboard 개발
+  - Jenkins webhook + Copilot = CI/CD pipeline Dashboard
     
