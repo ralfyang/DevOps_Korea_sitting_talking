@@ -15,6 +15,8 @@
 - AI기반의 No-code툴: 앱시트 활용사례
   - 앱시트를 활용한 API확장
     - Vagrant 원격 제어를 통한 VM 장비 관리
+       - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/ba78f32d-63fc-4045-ac99-7e884d8b753d)
+       - 앱시트 내에서 Action을 통해 요청별(VM create/reboot/reload/remove/status 등) API 호출을 통해 원격 대시보드 구현
     - CI/CD pipeline 변화에 따른 대시보드 구현
     - 주요 기능 및 연산을 위한 시트 함수 구현에 대한 ChatGPT 문의
         - https://chat.openai.com/share/8be0fc0d-918a-448c-80fa-229b61f3c71c
@@ -27,8 +29,9 @@
   - <img width="812" alt="image" src="https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/571c5b10-495c-4cfa-acd6-470092926583">
 - CI/CD pipeline status dashboard 개발
   - Jenkins webhook + Copilot = CI/CD pipeline Dashboard
-    
-- 이벤트 참여 응모
+
+## 경품의 시간!
+- 이벤트 응모
    - 참여 URL: ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/5f44e55c-b7c4-4485-9b72-ea1e9df33a1e)
    - 참여방법:
       - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/07e67b74-ff2e-49cd-8404-b16ea71dfe0b)
