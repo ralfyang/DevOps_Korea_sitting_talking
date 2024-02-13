@@ -28,3 +28,14 @@
 - CI/CD pipeline status dashboard 개발
   - Jenkins webhook + Copilot = CI/CD pipeline Dashboard
     
+- 이벤트 참여 응모
+   - 참여 URL: ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/5f44e55c-b7c4-4485-9b72-ea1e9df33a1e)
+   - 참여방법:
+      - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/07e67b74-ff2e-49cd-8404-b16ea71dfe0b)
+      - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/dc66913c-0d8f-468e-a050-cb44addaff80)
+      - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/b72db2e0-be70-46bf-9d6a-e669b9cf3de7)
+      - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/f607d91d-01cc-43c4-82e1-a16c3b7804de)
+
+
+
+
