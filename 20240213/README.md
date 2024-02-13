@@ -18,6 +18,7 @@
        - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/ba78f32d-63fc-4045-ac99-7e884d8b753d)
        - 앱시트 내에서 Action을 통해 요청별(VM create/reboot/reload/remove/status 등) API 호출을 통해 원격 대시보드 구현
     - CI/CD pipeline 변화에 따른 대시보드 구현
+       - ![image](https://github.com/ralfyang/DevOps_Korea_sitting_talking/assets/4043594/62a48ca0-6974-497e-b630-4498df159bd8)
     - 주요 기능 및 연산을 위한 시트 함수 구현에 대한 ChatGPT 문의
         - https://chat.openai.com/share/8be0fc0d-918a-448c-80fa-229b61f3c71c
     - AppSheet를 활용한 meetup 생성 및 관리 앱 템플릿
